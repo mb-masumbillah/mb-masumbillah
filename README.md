@@ -16,20 +16,20 @@ I am a newbie in professional world, recently completed training from programmin
 
 #### 🌟 Contact
 
-<p>
+<p align="center">
 <span>
      <img width="2%" height="2%" src="/images/email.png"/>
 </span>    <span>
      masumbillah2062003@gmail.com
 </span>
 </p>
-<p>
+<p align="center">
 <a href="https://web.facebook.com/profile.php?id=100073778886120">
-     <img width="5%" height="5%" src="/images/facebook.png" />
+     <img width="5%" height="5%" src="/images/linkedin.png" />
      
 </a>
 <a href="https://www.linkedin.com/in/masum-billah-155492261/">
-    <img width="5%" height="5%" src="/images/linkedin.png"/>
+    <img width="5%" height="5%" src="/images/facebook.png"/>
      
 </a>
 </p>
