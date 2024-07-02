@@ -43,7 +43,8 @@ I am a newbie in professional world, recently completed training from programmin
 
 ## :chart_with_upwards_trend: Commite Count
 
-<p align="center"> ![Masumbillah2062003's Stats](https://github-readme-stats.vercel.app/api?username=Masumbillah2062003&theme=dark&show_icons=true&hide_border=true&count_private=true) </p>
+![Masumbillah2062003's Stats](https://github-readme-stats.vercel.app/api?username=Masumbillah2062003&theme=dark&show_icons=true&hide_border=true&count_private=true) 
+
 
 ## :computer: Technologies
 
