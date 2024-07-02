@@ -34,7 +34,7 @@ I am a newbie in professional world, recently completed training from programmin
 </a>
 </p>
 
-## :chart_with_upwards_trend: Current Stats
+## :chart_with_upwards_trend: Daily Streak
 
 <br/>
 <p align="center">
