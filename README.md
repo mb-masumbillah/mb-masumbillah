@@ -25,11 +25,11 @@ I am a newbie in professional world, recently completed training from programmin
 </p>
 <p align="center">
 <a href="https://web.facebook.com/profile.php?id=100073778886120">
-     <img width="5%" height="5%" src="/images/linkedin.png" />
+     <img width="15%" height="15%" src="/images/linkedin.png" />
      
 </a>
 <a href="https://www.linkedin.com/in/masum-billah-155492261/">
-    <img width="5%" height="5%" src="/images/facebook.png"/>
+    <img width="15%" height="15%" src="/images/facebook.png"/>
      
 </a>
 </p>
