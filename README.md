@@ -41,7 +41,10 @@ I am a newbie in professional world, recently completed training from programmin
    <img width="70%" src="https://streak-stats.demolab.com?user=Masumbillah2062003&theme=whatsapp-dark2&border_radius=5&exclude_days=Fri" alt="GitHub Streak" />
 </p>
 
-![Masumbillah2062003's Stats](https://github-readme-stats.vercel.app/api?username=Masumbillah2062003&theme=dark&show_icons=true&hide_border=true&count_private=true) 
+<p align="center">
+   <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masumbillah2062003&theme=dark&show_icons=true&hide_border=true&layout=compact" />
+</p>
+<!-- ![Masumbillah2062003's Stats](https://github-readme-stats.vercel.app/api?username=Masumbillah2062003&theme=dark&show_icons=true&hide_border=true&count_private=true)  -->
 
 ![Masumbillah2062003's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Masumbillah2062003&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
