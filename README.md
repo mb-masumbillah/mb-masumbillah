@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/masum-billah-155492261/">
-    <img src="/images/banner (2).jpg" />
+    <img src="/images/banner.jpg.jpg" />
 </a>
 
 ## :raising_hand: About Me
