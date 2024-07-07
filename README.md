@@ -38,19 +38,19 @@ I am a newbie in professional world, recently completed training from programmin
 
 <br/>
 <p align="center">
-   <img width="70%" src="https://streak-stats.demolab.com?user=Masumbillah2062003&theme=whatsapp-dark2&border_radius=5&exclude_days=Fri" alt="GitHub Streak" />
+   <img width="70%" src="https://streak-stats.demolab.com?user=mb-masumbillah&theme=whatsapp-dark2&border_radius=5&exclude_days=Fri" alt="GitHub Streak" />
 </p>
 
 ## :chart_with_upwards_trend: Commit Count
 
 <p align="center">
-   <img width="65%" src="https://github-readme-stats.vercel.app/api?username=Masumbillah2062003&theme=dark&show_icons=true&hide_border=true&count_private=true" />
+   <img width="65%" src="https://github-readme-stats.vercel.app/api?username=mb-masumbillah&theme=dark&show_icons=true&hide_border=true&count_private=true" />
 </p>
 
 ## :chart_with_upwards_trend: Language Use
 
 <p align="center">
-   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masumbillah2062003&theme=dark&show_icons=true&hide_border=true&layout=compact" />
+   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mb-masumbillah&theme=dark&show_icons=true&hide_border=true&layout=compact" />
 </p>
 
 
