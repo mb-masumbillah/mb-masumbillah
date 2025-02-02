@@ -41,6 +41,13 @@ I am a newbie in professional world, recently completed training from programmin
    <img width="70%" src="https://streak-stats.demolab.com?user=mb-masumbillah&theme=whatsapp-dark2&border_radius=5&exclude_days=Fri" alt="GitHub Streak" />
 </p>
 
+## :chart_with_upwards_trend: Daily Dev
+
+<br/>
+<p align="center">
+   <img width="70%" src="https://dly.to/4WXBjL2m5jh" alt="GitHub Streak" />
+</p>
+
 ## :chart_with_upwards_trend: Commit Count
 
 <p align="center">
